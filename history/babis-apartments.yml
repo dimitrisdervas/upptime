@@ -1,7 +1,7 @@
 url: https://www.babisapartments.gr
-status: up
-code: 200
-responseTime: 473
-lastUpdated: 2023-04-27T23:11:27.734Z
+status: down
+code: 503
+responseTime: 5441
+lastUpdated: 2023-04-28T10:38:54.405Z
 startTime: Sat Jan 09 2021 09:48:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
