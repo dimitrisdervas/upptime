@@ -4,7 +4,7 @@
     "url": "https://www.babisapartments.gr",
     "icon": "https://icons.duckduckgo.com/ip3/www.babisapartments.gr.ico",
     "slug": "babis-apartments",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
@@ -16,6 +16,7 @@
     "timeMonth": 797,
     "timeYear": 692,
     "dailyMinutesDown": {
+      "2026-01-11": 0,
       "2026-01-08": 35,
       "2026-01-07": 28,
       "2026-01-04": 20,
