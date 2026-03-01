@@ -4,18 +4,19 @@
     "url": "https://www.babisapartments.gr",
     "icon": "https://icons.duckduckgo.com/ip3/www.babisapartments.gr.ico",
     "slug": "babis-apartments",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "98.18%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "98.13%",
     "uptimeYear": "99.42%",
     "time": 691,
-    "timeDay": 614,
-    "timeWeek": 795,
-    "timeMonth": 858,
-    "timeYear": 718,
+    "timeDay": 570,
+    "timeWeek": 770,
+    "timeMonth": 852,
+    "timeYear": 717,
     "dailyMinutesDown": {
+      "2026-03-01": 21,
       "2026-02-27": 49,
       "2026-02-22": 23,
       "2026-02-21": 49,
@@ -93,8 +94,7 @@
       "2025-07-24": 18,
       "2025-07-18": 17,
       "2025-07-15": 26,
-      "2025-07-08": 27,
-      "2025-06-28": 22
+      "2025-07-08": 27
     }
   }
 ]
