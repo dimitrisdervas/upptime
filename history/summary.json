@@ -6,17 +6,16 @@
     "slug": "babis-apartments",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.22%",
+    "uptimeDay": "91.16%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.20%",
     "time": 731,
     "timeDay": 0,
     "timeWeek": 689,
     "timeMonth": 755,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2025-11-05": 18,
       "2025-11-06": 81,
       "2025-11-07": 82,
       "2025-11-08": 54,
@@ -96,7 +95,8 @@
       "2026-04-22": 5,
       "2026-04-23": 53,
       "2026-04-24": 59,
-      "2026-04-25": 51
+      "2026-04-25": 51,
+      "2026-06-03": 127
     }
   }
 ]
